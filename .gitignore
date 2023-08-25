@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+#Folders
+app_backups/
+
 # Spyder project settings
 .spyderproject
 .spyproject
